@@ -6,7 +6,7 @@
 
  <h3>Tools: </h3>
  <p>VS Code | HTML | CSS | JavaScript | C/C++ | Git & Github</p>
- <img src=""></img> 
+ <img src="./Blue And Green Professional Technology LinkedIn Banner.png"></img> 
  <ul> 
     <li>👀 I’m interested in Software Development</li>
     <li>🌱 I’m currently learning DSA as well as Development.</li>
