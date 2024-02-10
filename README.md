@@ -9,7 +9,7 @@
  <img src=""></img> 
  <ul> 
     <li>👀 I’m interested in Software Development</li>
-    <li>🌱 I’m currently learning DSA</li>
+    <li>🌱 I’m currently learning DSA as well as Development.</li>
     <li>📫 How to reach me : Through email</li>
     <li>😄 Pronouns: He/Him</li>
     <li>⚡ Fun fact: ...</li>
