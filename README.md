@@ -1,22 +1,20 @@
-
  <h3>Hi There👋, Welcome! ...</h3>
- <p>Hello👋, My name is <b>Prince Kumar.</b> I'm from Indra Gandhi National Open University🏪, Student of BCA 1️⃣st Year. </p>
+ <p>Hello👋, My name is <b>Prince Kumar.</b> I'm from Indra Gandhi National Open University🏪, Student of BCA   1️⃣ st Year. </p>
  <p>I have Huge Interest in Software Development💻. Currently Studing DSA with C++ to Upskill 💪 Myself. <p>
  <h3>Skills:</h3>
-<ul style="display:flex; gap:3rem"> 
-    <li>Frontend Developer</li>
-    <li>UI Designer</li>
- </ul>
+ <p>Frontend Developer | UI Designer</p>
+
  <h3>Tools: </h3>
- <ul style="display:flex; gap:3rem"> 
-    <li>VS Code</li>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-    <li>C/C++</li>
-    <li>Git & Github</li>
- </ul>
+ <p>VS Code | HTML | CSS | JavaScript | C/C++ | Git & Github</p>
  <img src=""></img> 
+ <ul> 
+    <li>👀 I’m interested in Software Development</li>
+    <li>🌱 I’m currently learning DSA</li>
+    <li>📫 How to reach me : Through email</li>
+    <li>😄 Pronouns: He/Him</li>
+    <li>⚡ Fun fact: ...</li>
+ </ul>
+ 
 
 <!---
 Princeinfo053/Princeinfo053 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
